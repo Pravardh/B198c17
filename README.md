@@ -38,7 +38,7 @@
 
 ## Downloading the Build
 
-1. Open the [The Executionist macOS Build release](https://github.com/Pravardh/TheExecutionistBuilds/releases/tag/Build) on GitHub.
+1. Open the [The Executionist macOS Build release](https://github.com/Pravardh/B198c17/releases/tag/Build) on GitHub.
 
 2. Under the **Assets** section, download:
 
